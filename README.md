@@ -23,20 +23,4 @@ A responsive front-end replication of the Facebook web interface, built using mo
 
 ---
 
-## 📸 Screenshots
 
-### Desktop View
-![Desktop Preview](https://placehold.co/800x450/242526/FFF?text=Add+Your+Desktop+Screenshot+Here)
-
-### Mobile View
-![Mobile Preview](https://placehold.co/300x600/242526/FFF?text=Add+Your+Mobile+Screenshot+Here)
-
----
-
-## ⚙️ Installation & Setup
-
-To run this project locally, simply clone the repository and open the `index.html` file in your browser.
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git)
